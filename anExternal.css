@@ -1,0 +1,18 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+body {
+ background-color: purple;
+}
+h1 {
+ color: blue;
+ text-align: center;
+ margin-left: 15px;
+ border: 3px
+ font: italic 200% fantasy;
+}
