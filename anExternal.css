@@ -1,9 +1,9 @@
 body {
-    background-color: lightblue;
+    background-color: blue;
 }
 
 h1 {
-    color: navy;
+    color: purple;
     margin-left: 20px;
 }
 body {
@@ -14,5 +14,5 @@ h1 {
  text-align: center;
  margin-left: 15px;
  border: 3px
- font: italic 200% fantasy;
+ font: italic 150% fantasy;
 }
