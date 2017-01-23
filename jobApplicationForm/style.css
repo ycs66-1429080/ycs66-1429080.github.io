@@ -70,18 +70,7 @@ li{
 	margin-right: auto;
 	margin-bottom: 10px;
 	text-align:center;
-	color: blue;	
-}
-}
-#Header  img{
-	border-image: url('icon.png');
-
-}
-#Header  ul{
-
-}
-#Header  h3{
-
+	color: blue;
 }
 #field1{
 	border: solid 8px black;
