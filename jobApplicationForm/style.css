@@ -1,0 +1,111 @@
+body{
+	background-color: #A9F1F1;
+	background-image: url('paisley.png');
+	font-family: 'Pacifico', cursive;
+	color: purple;
+	font-weight: bold;
+	outline: 5px dotted red;
+	outline-color: pink;
+	outline-width: thick;
+}
+h2{
+	border-image: url('icon.png');
+	border: solid 8px black;
+	font-family:"Times New Roman";
+	font-size:60px;
+	text-align:center;
+}
+
+li{
+	list-style-type: none;
+	padding-left: 0px;
+	display: inline;
+}
+#fieldsetformat{
+	border: solid 8px black;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	float: center;
+	text-align:center;
+	padding-bottom: 8px;
+	outline-style: double;
+	outline-color: yellow;
+	outline-width: 5px;
+	border-collapse: collapse;
+}
+#Accountformat{
+	border:  12px black;
+	max-width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	text-align:center;
+	color: blue;
+
+}
+#PersonalInformationformat{
+	border:  12px black;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	text-align:center;
+	color: blue;
+}
+#Availablilityformat{
+	border:  12px black;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	text-align:center;
+	color: blue;	
+}
+#personalstatementformat{
+	border:  12px black;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	text-align:center;
+	color: blue;	
+}
+}
+#Header  img{
+	border-image: url('icon.png');
+
+}
+#Header  ul{
+
+}
+#Header  h3{
+
+}
+#field1{
+	border: solid 8px black;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	float: left;
+	text-align:center;
+	padding-bottom: 8px;
+}
+#Content{
+	border: solid 8px black;
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	text-align:center;
+	padding: 15px;
+}
+
+#Footerformat{
+	border: solid 8px black;
+	text-align:center;
+	border-collapse: collapse;
+}
+
